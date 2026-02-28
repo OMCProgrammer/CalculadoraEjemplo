@@ -100,5 +100,6 @@ public class CalculadoraEjemplo {
         System.out.println("Multiplicación (10 * 5): " + miCalc.multiplicar(10, 5));
         System.out.println("División (10 / 5): " + miCalc.dividir(10, 5));
         System.out.println("Prueba adicional: " + miCalc.sumar(50, 50));
+        System.out.println("Prueba adicional 2: " + miCalc.sumar(500, 500));
     }
 }
